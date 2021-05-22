@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.f6662e90.chunk.js",
+    "main.js.map": "/static/js/main.f6662e90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.620c772e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.620c772e.js.map",
+    "static/css/2.8320ddf7.chunk.css": "/static/css/2.8320ddf7.chunk.css",
+    "static/js/2.703af419.chunk.js": "/static/js/2.703af419.chunk.js",
+    "static/js/2.703af419.chunk.js.map": "/static/js/2.703af419.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee7859e896a7bc97d46383cbc8de2469.js": "/precache-manifest.ee7859e896a7bc97d46383cbc8de2469.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8320ddf7.chunk.css.map": "/static/css/2.8320ddf7.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/kupol-base.jpg": "/static/media/kupol-base.7f07bf34.jpg",
+    "static/media/kupol-inside-wall-close.jpeg": "/static/media/kupol-inside-wall-close.b3955151.jpeg",
+    "static/media/kupol-inside.jpeg": "/static/media/kupol-inside.34995d3e.jpeg",
+    "static/media/kupol-outside-view-full.jpeg": "/static/media/kupol-outside-view-full.a3483e0b.jpeg",
+    "static/media/kupol-outside-view-long.jpeg": "/static/media/kupol-outside-view-long.2f00d562.jpeg",
+    "static/media/kupol-outside-view.jpeg": "/static/media/kupol-outside-view.576affcd.jpeg",
+    "static/media/kupol-top.jpeg": "/static/media/kupol-top.7b0fa67c.jpeg",
+    "static/media/kupol-wall-internal.jpeg": "/static/media/kupol-wall-internal.d99d3ed1.jpeg",
+    "static/media/kupol-wall-outside.jpeg": "/static/media/kupol-wall-outside.207a0673.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620c772e.js",
+    "static/css/2.8320ddf7.chunk.css",
+    "static/js/2.703af419.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f6662e90.chunk.js"
+  ]
+}
